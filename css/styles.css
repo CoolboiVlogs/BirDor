@@ -1,0 +1,57 @@
+body
+{
+    background-color: rgb(176, 176, 196);
+    text-align: center;
+}
+
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 30%;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 30%;
+}
+
+.title-image
+{
+    width: 90%;
+}
+
+.national
+{
+    color: blue;
+}
+
+.country1
+{
+    color: orangered;
+}
+
+.title
+{
+    padding: 10% 5%;
+}
+
+.btn
+{
+    margin-left: -25%; 
+}
+
+.nav-link
+{
+    color: blue;
+}
+
+.navbar-brand
+{
+    color: blue;
+    font-size: 2.5rem;
+}
